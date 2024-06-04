@@ -1,3 +1,12 @@
+###############################################
+##               Jumping Cube                ##
+##   Simple platformer game in python for    ##
+##         learning game development         ##
+##                                           ##
+## angeldev0                                 ##
+###############################################
+
+
 import pygame
 import random
 import os
